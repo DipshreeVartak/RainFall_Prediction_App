@@ -46,7 +46,7 @@ The model is trained on a custom dataset containing daily weather observations, 
 
 ```bash
 git clone https://github.com/DipshreeVartak/RainFall_Prediction_Web_application-.git
-cd rainfall-prediction-app
+cd RainFall_Prediction_App
 ```
 
 2. Install dependencies:
